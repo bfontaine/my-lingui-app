@@ -26,6 +26,8 @@
 	"type": "module",
 	"dependencies": {
 		"@lingui/core": "^4.7.0",
+		"@sveltejs/adapter-node": "^4.0.1",
+		"sass": "^1.70.0",
 		"svelte-i18n-lingui": "^0.1.7"
 	}
 }
