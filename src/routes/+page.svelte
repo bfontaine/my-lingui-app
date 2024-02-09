@@ -28,8 +28,10 @@
 	<Counter />
 </section>
 
-<style>
+<style lang="scss">
 	section {
+		color: $red;
+
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
